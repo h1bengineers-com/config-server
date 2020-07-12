@@ -8,6 +8,6 @@ spring:
           search-paths:
             - jobs-service
             - news-service
-            - profile-service
-            - attorney-service
+            - profiles-service
+            - attorneys-service
           default-label: develop
